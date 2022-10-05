@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b30c8b61-f32d-4904-9410-307720f5ba91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polimorfismo_e1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FiguraGeometrica/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangulo/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangulo/Triangulo.java" afterDir="false" />
+    <list default="true" id="b30c8b61-f32d-4904-9410-307720f5ba91" name="Changes" comment="Ejemplo polimorfismo paramatrico y por sobreescritura">
+      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +51,16 @@
       <updated>1664851218157</updated>
       <workItem from="1664851220781" duration="8524000" />
       <workItem from="1664916591397" duration="3326000" />
-      <workItem from="1664923873120" duration="2069000" />
+      <workItem from="1664923873120" duration="5665000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejemplo polimorfismo paramatrico y por sobreescritura">
+      <created>1664937277954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664937277954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejemplo polimorfismo paramatrico y por sobreescritura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejemplo polimorfismo paramatrico y por sobreescritura" />
   </component>
 </project>

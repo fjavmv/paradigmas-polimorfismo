@@ -1,5 +1,8 @@
 import FiguraGeometrica.Figura;
 import Rectangulo.Rectangulo;
+import Sobrecarga.Carro;
+import Sobrecarga.Perro;
+import Sobrecarga.Persona;
 import Triangulo.Triangulo;
 
 /**
@@ -17,5 +20,15 @@ public class Main {
 
         System.out.println(f);
         System.out.println(f2);
+
+        //POLIMORFISMO POR SOBRE CARGA SUCEDE EN CLASES INDEPENDIENTES Y NO TIENEN RELACIÓN DE HERENCIA
+        Persona p = new Persona(2,"Maria",3);
+        System.out.println(p.Correr());
+        Carro c = new Carro(4,"Kia",180);
+        System.out.println(c.Correr());
+        Perro per = new Perro("Chihuahua",4,10);
+        System.out.println(per.Correr());
+
+
     }
 }
