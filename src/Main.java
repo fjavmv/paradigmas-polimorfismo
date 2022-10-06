@@ -10,10 +10,8 @@ import Triangulo.Triangulo;
  * */
 public class Main {
     public static void main(String[] args) {
-
         //Creo un objeto de la clase figura
-        Figura f;
-        f = new Rectangulo(2.3,3.4,"Rectangulo");
+        Rectangulo f = new Rectangulo(2.3,3.4,"Rectangulo");
 
         Figura f2;
         f2 = new Triangulo(5.0,4.0,"Triangulo");
@@ -28,7 +26,6 @@ public class Main {
         System.out.println(c.Correr());
         Perro per = new Perro("Chihuahua",4,10);
         System.out.println(per.Correr());
-
 
     }
 }
