@@ -54,10 +54,10 @@ public class MainEmpleado
 
 
         //DOWNCASTING
-         //Empleado e = r1; // aquí hacemos upcasting
-        // Repartidor r = e; //aquí es downcasting aquí tenemos que forzar la conversión
-        // Cocinero c = (Cocinero) e;
-        // c.cocinar();
+        // Empleado e = r1; // aquí hacemos upcasting
+        // Repartidor r = (Repartidor) e; //aquí es downcasting aquí tenemos que forzar la conversión
+        //Cocinero c = (Cocinero) e;
+       ///  c.cocinar();
 
 
     }

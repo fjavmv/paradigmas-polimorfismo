@@ -19,7 +19,7 @@ public class Empleado {
 
     public double pagarimpuestos()
     {
-        return  (salario - 17.92);
+        return  (salario);
     }
 
 

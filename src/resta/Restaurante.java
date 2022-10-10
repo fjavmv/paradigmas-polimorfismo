@@ -39,20 +39,22 @@ public class Restaurante {
 
     //upcasting generalización
 
-    public  void contratarEmpleado(Empleado e)
-    {
-      //  if (e instanceOf Cocinero)
-        //{
-          //  Cocinero c = (Cocinero) e;
-           // c.cocinar();
-        //}
+    public  void contratarEmpleado(Empleado e) {
+        if ( e instanceof Cocinero)
+        {
+           Cocinero c = (Cocinero) e;
+           c.cocinar();
+        }
+            Object o;
 
-        //e.pagarimpuestos();
-        //e.cobrarQuicena();
-        //e.toString();
+         e.pagarimpuestos();
+         e.cobrarQuicena();
+         System.out.println(e);
         //probar pasando object
         this.empleados.add(e);
+
     }
+
 
     public ArrayList<Empleado> getEmpleados() {
         return empleados;

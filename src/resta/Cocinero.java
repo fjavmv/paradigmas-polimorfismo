@@ -19,8 +19,9 @@ public class Cocinero extends Empleado{
     }
 
     @Override
-    public double pagarimpuestos() {
-        return super.pagarimpuestos();
+    public double pagarimpuestos()
+    {
+        return super.pagarimpuestos() - 0.16;
     }
 
     public String toString(){
