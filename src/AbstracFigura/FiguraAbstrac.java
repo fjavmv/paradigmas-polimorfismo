@@ -37,6 +37,12 @@ public  abstract class FiguraAbstrac {
     //Declaramos un método para calcular el área
     abstract public double calcularArea();
 
+    public void calculaArea2(){
+        int val1 = 1;
+        int val2 = 2;
+         int suma = val2 + val1;
+    }
+
 
     @Override
     public String toString(){

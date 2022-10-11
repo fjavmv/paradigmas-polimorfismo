@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b30c8b61-f32d-4904-9410-307720f5ba91" name="Changes" comment="Ejemplo polimorfismo upcasting">
-      <change afterPath="$PROJECT_DIR$/src/AbstracFigura/FiguraAbstrac.java" afterDir="false" />
+    <list default="true" id="b30c8b61-f32d-4904-9410-307720f5ba91" name="Changes" comment="Interfaces en java paquete interefaces2">
       <change afterPath="$PROJECT_DIR$/src/AbstracFigura/Rectangulo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/AbstracFigura/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces2/Auditorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces2/Aves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces2/Canario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces2/Cantante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces2/HacerMusica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces2/IPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces2/Persona.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/interfeces/ICalculoAreas.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/interfeces/Rectangulo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/interfeces/Triangulo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/rtti/Rtti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resta/Cocinero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resta/Cocinero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resta/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resta/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resta/MainEmpleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resta/MainEmpleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resta/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resta/Restaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstracFigura/FiguraAbstrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracFigura/FiguraAbstrac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces2/Auditorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces2/Auditorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces2/Cantante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces2/Cantante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces2/HacerMusica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces2/HacerMusica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces2/IPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces2/IPrincipal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +123,7 @@
       <workItem from="1664923873120" duration="14204000" />
       <workItem from="1665036576357" duration="17077000" />
       <workItem from="1665236198877" duration="10000" />
-      <workItem from="1665381463700" duration="7471000" />
+      <workItem from="1665381463700" duration="13180000" />
     </task>
     <task id="LOCAL-00001" summary="Ejemplo polimorfismo paramatrico y por sobreescritura">
       <created>1664937277954</created>
@@ -153,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665072564491</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Interfaces en java paquete interefaces2">
+      <created>1665420539053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665420539053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +174,7 @@
     <MESSAGE value="Ejemplo polimorfismo paramatrico y por sobreescritura" />
     <MESSAGE value="Ejemplo polimorfismo por sobrecarga" />
     <MESSAGE value="Ejemplo polimorfismo upcasting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejemplo polimorfismo upcasting" />
+    <MESSAGE value="Interfaces en java paquete interefaces2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces en java paquete interefaces2" />
   </component>
 </project>

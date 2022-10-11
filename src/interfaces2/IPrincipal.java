@@ -9,6 +9,9 @@ public class IPrincipal {
         auditorio.agregarCantante(new Canario());
         auditorio.agregarCantante(new Cantante());
         auditorio.agregarCantante(new Canario());
+        auditorio.agregarCantante(new Cantante());
+        auditorio.agregarCantante(new Canario());
+
 
         //Mostrando en consola la letra de canción
       auditorio.ofrecerConcierto();
