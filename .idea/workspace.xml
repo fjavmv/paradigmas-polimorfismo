@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b30c8b61-f32d-4904-9410-307720f5ba91" name="Changes" comment="Interfaces en java metodo por default">
+    <list default="true" id="b30c8b61-f32d-4904-9410-307720f5ba91" name="Changes" comment="Clases internas en  java">
       <change afterPath="$PROJECT_DIR$/src/AbstracFigura/Rectangulo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/AbstracFigura/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerClass/Externa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerClass/MainInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfeces/ICalculoAreas.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/interfeces/Rectangulo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/interfeces/Triangulo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/rtti/Rtti.java" afterDir="false" />
@@ -135,7 +132,8 @@
       <workItem from="1665036576357" duration="17077000" />
       <workItem from="1665236198877" duration="10000" />
       <workItem from="1665381463700" duration="13499000" />
-      <workItem from="1665582523067" duration="6073000" />
+      <workItem from="1665582523067" duration="7018000" />
+      <workItem from="1665613394201" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="Ejemplo polimorfismo paramatrico y por sobreescritura">
       <created>1664937277954</created>
@@ -172,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665516296594</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Clases internas en  java">
+      <created>1665590132613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665590132613</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +200,7 @@
     <MESSAGE value="Ejemplo polimorfismo upcasting" />
     <MESSAGE value="Interfaces en java paquete interefaces2" />
     <MESSAGE value="Interfaces en java metodo por default" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interfaces en java metodo por default" />
+    <MESSAGE value="Clases internas en  java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clases internas en  java" />
   </component>
 </project>
