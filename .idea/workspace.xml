@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b30c8b61-f32d-4904-9410-307720f5ba91" name="Changes" comment="Clases internas en  java">
-      <change afterPath="$PROJECT_DIR$/src/AbstracFigura/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstracFigura/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfeces/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfeces/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rtti/Rtti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rtti/Rtti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rtti/Rtti.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <recent name="FiguraGeometrica" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainInner">
+  <component name="RunManager" selected="Application.Rtti">
     <configuration name="IPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces2.IPrincipal" />
       <module name="polimorfismo_e1" />
@@ -109,8 +105,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Rtti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rtti.Rtti" />
+      <module name="polimorfismo_e1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rtti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rtti" />
         <item itemvalue="Application.MainInner" />
         <item itemvalue="Application.IPrincipal" />
         <item itemvalue="Application.MainEmpleado" />
@@ -134,6 +144,8 @@
       <workItem from="1665381463700" duration="13499000" />
       <workItem from="1665582523067" duration="7018000" />
       <workItem from="1665613394201" duration="42000" />
+      <workItem from="1665734130469" duration="115000" />
+      <workItem from="1666618522528" duration="3703000" />
     </task>
     <task id="LOCAL-00001" summary="Ejemplo polimorfismo paramatrico y por sobreescritura">
       <created>1664937277954</created>
@@ -177,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665590132613</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Clases internas en  java">
+      <created>1665734149180</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665734149180</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Clases internas en  java">
+      <created>1665734207466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665734207466</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +226,7 @@
     <MESSAGE value="Ejemplo polimorfismo upcasting" />
     <MESSAGE value="Interfaces en java paquete interefaces2" />
     <MESSAGE value="Interfaces en java metodo por default" />
+    <MESSAGE value="actualización" />
     <MESSAGE value="Clases internas en  java" />
     <option name="LAST_COMMIT_MESSAGE" value="Clases internas en  java" />
   </component>
